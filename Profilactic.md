@@ -1,6 +1,7 @@
 # Hi there, I'm Afrika! 👋
 
-![Banner Image](banner.png)
+![Banner Image]([Adobe_Express_20230719_0043060_1 - Copy](https://github.com/user-attachments/assets/674d9401-9f53-4abd-ba43-99d95cb4d04c)
+
 
 ## About Me 🚀
 
